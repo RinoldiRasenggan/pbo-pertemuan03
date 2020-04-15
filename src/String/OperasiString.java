@@ -3,7 +3,7 @@ package String;
 import javax.print.DocFlavor;
 
 public class OperasiString {
-    public static void(string[] args) {
+    public static void(String[] args) {
         String kota = "Yogyakarta";
 
 
